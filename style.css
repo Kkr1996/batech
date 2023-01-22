@@ -1,0 +1,8 @@
+.sucess{
+	color: green;
+	font-weight: bold;
+}
+.invalid{
+	color: red;
+    font-size: 32px;
+}
